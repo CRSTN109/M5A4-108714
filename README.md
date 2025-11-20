@@ -1,3 +1,9 @@
 # Grundlagen der Anwendungsentwicklung A4
 **Submited by 108714**
-Lorem ipsum dolor sit amet
+
+Introduction to Pandas DataFrames – Replicating an article in Markdown
+
+Contents:
+Pandas.ipynb    Jupyter Notebook file with the replicated article
+Pandas.html     HTML file of the Notebook
+Pandas.webp     Picture shown in the replicated article
